@@ -11,7 +11,9 @@ node server.js
 ```
 # Tech Stack
 Frontend: HTML, CSS, dan JavaScript
+
 Backend: Node.js dengan framework Express.js
+
 Database: MySQL
 
 # Users
