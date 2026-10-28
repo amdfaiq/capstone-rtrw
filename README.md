@@ -18,6 +18,7 @@ Database: MySQL
 
 # Users
 **Warga**
+
 Warga merupakan pengguna sistem yang mengajukan surat. Beberapa aktivitas yang dapat dilakukan oleh warga dalam sistem ini antara lain:
 - Melengkapi data diri, yang menjadi syarat awal untuk dapat mengajukan surat.
 - Melihat atau mengunduh template surat, sehingga warga mengetahui format surat yang dibutuhkan.
@@ -27,6 +28,7 @@ Warga merupakan pengguna sistem yang mengajukan surat. Beberapa aktivitas yang d
 
 
 **RT**
+
 Pengurus RT memiliki peran sebagai verifikator awal dalam proses pengajuan surat. Aktivitas yang dapat dilakukan oleh RT dalam sistem ini meliputi:
 - Menerima dan menandatangani surat, apabila permohonan warga dinilai sesuai.
 - Verifikasi surat, untuk memastikan data dan tujuan surat benar.
@@ -36,6 +38,7 @@ Pengurus RT memiliki peran sebagai verifikator awal dalam proses pengajuan surat
 
 
 **RW**
+
 Pengurus RW memiliki fungsi sebagai verifikator lanjutan jika dibutuhkan, khususnya untuk surat yang memerlukan otorisasi lebih tinggi. Aktivitas yang dapat dilakukan oleh RW antara lain:
 - Melakukan verifikasi lanjutan, setelah surat diverifikasi oleh RT.
 - Menandatangani surat, apabila permohonan dianggap layak dan sesuai.
